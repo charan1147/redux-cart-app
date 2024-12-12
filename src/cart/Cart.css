@@ -1,0 +1,31 @@
+.cart ul {
+    list-style: none;
+    padding: 25px;
+  }
+  
+  .cart li {
+    border-bottom: 1px solid white;
+    padding: 1rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+  }
+
+  .cart li img{
+    width: 261px;
+  }
+  
+  .cart button {
+    padding: 0.5rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .cart button:hover {
+    background-color: #45a049;
+  }
+  .cart ul ul{
+    margin-left: 50px;
+  }

@@ -1,0 +1,14 @@
+.App{
+    padding: 1.5%;
+}
+
+.App h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: 5px;
+    height: 100px;
+    background-color: wheat;
+    border-radius: 10px;
+}
